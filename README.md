@@ -8,12 +8,6 @@
     <i>"Combining technical depth with real-world execution."</i>
   </p>
 
-  <a href="mailto:gprsguru1777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/guruvishal-sr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
 </div>
 
@@ -82,18 +76,6 @@ Working across **threat intelligence**, **cybersecurity**, **Web3**, and **full-
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruvishal1005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruvishal1005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=guruvishal1005&theme=radical&hide_border=true&background=0d1117" height="150" alt="streak graph" />
-</div>
-
----
 
 <div align="center">
   <p>📫 <b>Open to collaborations!</b> Reach me at
